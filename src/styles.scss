@@ -1,0 +1,5 @@
+@charset "utf-8";
+@import "../node_modules/bulma/bulma.sass";
+
+// 1920px container + 4rem
+$fullhd: 1920px + (2 * $gap) !default
